@@ -30,8 +30,9 @@ Do you always spam your keyboard with the correct key just to boot into BIOS? We
       <img src="https://github.com/user-attachments/assets/ebec996d-80b7-4167-9798-017cd1553543" style="width:50%"/>
   </li>
   <li>Check Run as administrator, then click OK and Apply
+    <br>
+      <img src="https://github.com/user-attachments/assets/7c532d36-8f0f-4519-8363-16f44f25567c" style="width:50%"/>
   </li>
-  <li>Now double-click it then you'll be able to boot 
-    straight to the BIOS
+  <li>Now double-click it then you'll be able to boot straight to the BIOS
   </li>
 </ol>
